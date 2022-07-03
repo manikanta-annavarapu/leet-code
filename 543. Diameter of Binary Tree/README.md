@@ -1,4 +1,6 @@
 # 543. Diameter of Binary Tree
+### Level: <span style="color:green">Easy</span>
+---
 
 Given the root of a binary tree, return the length of the diameter of the tree.
 
