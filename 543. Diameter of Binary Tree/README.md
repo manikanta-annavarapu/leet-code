@@ -1,5 +1,6 @@
 # 543. Diameter of Binary Tree
-### Level: <span style="color:green">Easy</span>
+[![Grind 75](https://img.shields.io/badge/Grind%2075-Easy-brightgreen)](https://www.techinterviewhandbook.org/grind75)
+[![Binary Tree](https://img.shields.io/badge/Binary%20Tree-Easy-brightgreen)](https://leetcode.com/problems/diameter-of-binary-tree/)
 ---
 
 Given the root of a binary tree, return the length of the diameter of the tree.

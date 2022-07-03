@@ -1,5 +1,6 @@
 # 876. Middle of the Linked List
-### Level: <span style="color:green">Easy</span>
+[![Grind 75](https://img.shields.io/badge/Grind%2075-Easy-brightgreen)](https://www.techinterviewhandbook.org/grind75)
+[![Linked List](https://img.shields.io/badge/Linked%20List-Easy-brightgreen)](https://leetcode.com/problems/middle-of-the-linked-list/)
 ---
 
 Given the head of a singly linked list, return the middle node of the linked list.
